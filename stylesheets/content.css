@@ -1,0 +1,486 @@
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-family: "SuisseIntl", sans-serif;
+  background-color: #FBF4EC;
+}
+.container1 {
+  max-width: 1440px;
+  margin: 0 auto;
+  overflow: hidden;
+  height: 65vw;
+}
+.block1 {
+  margin-top: 0px;
+  box-sizing: border-box;
+  padding-left: 0px;
+  padding-right: 0px;
+  width: 100%;
+  height: 10vw;
+}
+.block1 all {
+  position:relative;
+}
+.circle  {
+  width: 10.83vw;
+}
+.c1 {
+    margin-left: 2.917vw;
+    margin-top: -6.8vw;
+}
+.three {
+  font-size: 1.042vw;
+  letter-spacing: 5%;
+  line-height: 124%;
+  color: #0315B6;
+}
+.j {
+  margin-left: 55.556vw;
+}
+.p13 {
+  margin-top: -3.472vw;
+}
+.k {
+  margin-left: 79.861vw;
+}
+.p19 {
+    margin-top: -7.778vw;
+}
+/* расположение вещей */
+.block2 {
+  position: relative;
+  box-sizing: border-box;
+  width: 100%;
+  padding-left: 9.722vw;
+  padding-right: 9.722vw;
+  height: 41.944vw;
+}
+
+.pic1  {
+  position: absolute;
+  margin-top: 0vw;
+  margin-left: 0vw;
+  width: 23.333vw;
+}
+
+.pic2 {
+  position: absolute;
+  margin-top: -1.458vw;
+  margin-left: 6.736vw;
+  width: 46.458vw;
+}
+.pic3 {
+  position: absolute;
+  position: absolute;
+  margin-top: 5vw;
+  margin-left: 26vw;
+  width: 9.583vw;
+}
+.pic4 {
+  position: absolute;
+  margin-top: 2vw;
+  margin-left: 35vw;
+  width:10.694vw;
+}
+.picc4 {
+  position: absolute;
+  margin-top: 0vw;
+  margin-left: 34vw;
+  width: 13.1vw;
+  opacity:0;
+  transition: 0.3s;
+}
+.pic9 {
+  position: absolute;
+  margin-top: 0vw;
+  margin-left: 37vw;
+  width: 15.833vw;
+}
+.pic10 {
+  position: absolute;
+  margin-top: 1vw;
+  margin-left: 52vw;
+  width:14.583vw;
+}
+.pic5 {
+  position: absolute;
+  margin-top: -3vw;
+  margin-left: 43vw;
+  width: 34.722vw;
+}
+.pic17 {
+  position: absolute;
+  margin-top: 3vw;
+  margin-left: 65vw;
+  width: 10.417vw;
+}
+.picc17 {
+  position: absolute;
+  margin-top: -1.3vw;
+  margin-left: 60.5vw;
+  width: 19.028vw;
+}
+.pic8 {
+  position: absolute;
+  margin-top: 13vw;
+  margin-left: -2vw;
+  width: 28.264vw;
+}
+.pic11 {
+  position: absolute;
+  margin-top: 9vw;
+  margin-left: 10vw;
+  width: 55.972vw;
+}
+.pic22 {
+  position: absolute;
+  margin-top: 13vw;
+  margin-left: 32vw;
+  width: 13.889vw;
+}
+.pic6 {
+  position: absolute;
+  margin-top: 9vw;
+  margin-left: 68vw;
+  width: 15.833vw;
+}
+.pic13 {
+  position: absolute;
+  margin-top: 27vw;
+  margin-left: 2vw;
+  width: 13.125vw;
+}
+.pic21 {
+  position: absolute;
+  margin-top: 22vw;
+  margin-left: 7vw;
+  width: 19.444vw;
+}
+.pic19 {
+  position: absolute;
+  margin-top: 35vw;
+  margin-left: 18vw;
+  width: 8.958vw;
+}
+.pic15 {
+  position: absolute;
+  margin-top: 20vw;
+  margin-left: 21vw;
+  width: 17.778vw;
+}
+.pic7 {
+  position: absolute;
+  margin-top: 27vw;
+  margin-left: 28vw;
+  width: 11.181vw;
+}
+.pic18 {
+  position: absolute;
+  margin-top: 31vw;
+  margin-left: 33vw;
+  width: 15.556vw;
+}
+.pic16 {
+  position: absolute;
+  margin-top: 17vw;
+  margin-left: 62vw;
+  width: 20.069vw;
+}
+.pic12 {
+  position: absolute;
+  margin-top: 23vw;
+  margin-left: 62vw;
+  width: 12.847vw;
+}
+.picc12 {
+  position: absolute;
+  margin-top: 20.6vw;
+  margin-left: 59.45vw;
+  width: 17.028vw;
+  opacity:0;
+  transition: 0.3s;
+}
+.pic14 {
+  position: absolute;
+  margin-top: 28vw;
+  margin-left: 46vw;
+  width: 11.806vw;
+}
+.pic20 {
+  position: absolute;
+  margin-top: 16vw;
+  margin-left: 41vw;
+  width: 33.125vw;
+}
+.block3 {
+  position: relative;
+}
+.p1 {
+  margin-top: 2vw;
+}
+.l {
+  margin-left: 3.472vw;
+}
+.p7 {
+  margin-top: -7.778vw;
+}
+.m {
+  margin-left: 79.861vw;
+}
+.show {
+  opacity:1;
+  transition: 0.3s;
+}
+/* чтобы работала кнопка назад (она скрывает открытую страницу) */
+.hide {
+  display: none;
+}
+.container2 {
+  position: relative;
+  height: 48.56vw;
+  overflow: hidden;
+}
+.draw {
+  position: absolute;
+  margin-top: 7vw;
+  margin-left: 8.5vw;
+}
+.back1 {
+  margin-top: -4.889vw;
+  margin-left: 25vw;
+}
+/* это рамка для кнопки */
+.norm {
+  width:13.889vw;
+  height: 5.903vw;
+  box-sizing: border-box;
+  border-style: solid;
+  border-color: #0315B6;
+  border-width: 0.14vw;
+}
+.push1 {
+  position: absolute;
+  margin-top: 2.222vw;
+  margin-left: 5.208vw;
+  color: #0315B6;
+  font-size: 1.528vw;
+}
+.norm:hover {
+  background-color: #0315B6;
+  transition: 0.5s
+}
+.norm:hover .push1 {
+  color: #FBF4EC;
+  transition: 0.5s;
+}
+.back2 {
+  margin-top: -4.889vw;
+  margin-left: 25vw;
+}
+.c2 {
+    margin-left: 2.917vw;
+}
+.text {
+  position: absolute;
+  color: #0315B6;
+  font-size: 1.528vw;
+}
+.t1 {
+  margin-top:-2.5vw;
+  margin-left:53.60vw;
+}
+.rectangle1  {
+  position: absolute;
+  background-color: #0315B6;
+}
+.rectangle2  {
+  position: absolute;
+  background-color: #0315B6;
+}
+.r1 {
+  width:6.53vw;
+  height: 1.94vw;
+  margin-top: 35.64vw;
+}
+.r2 {
+  width: 3.89vw;
+  height: 5.90vw;
+  margin-top: 6.89vw;
+  margin-left: 97.04vw;
+}
+.barcode {
+  position: absolute;
+  width:17.57vw;
+}
+.br1 {
+  margin-top: -13vw;
+  margin-left: 94vw;
+}
+.br2 {
+  margin-top: 41vw;
+  margin-left: 16vw;
+}
+.guitar {
+  position: absolute;
+  width: 71.50vw;
+  margin-top: 8.56vw;
+  margin-left: 14.25vw;
+}
+.container0 {
+  width: 100vw;
+  background: rgb(3,21,182);
+background: linear-gradient(0deg, rgba(3,21,182,1) 0%, rgba(251,244,236,0.4937325271905637) 39%);
+  overflow-x: hidden;
+}
+.c0f {
+  position: relative;
+  height: 55.33vw;
+}
+.cloud {
+    width:28.69vw;
+    height: 8.96vw;
+    box-sizing: border-box;
+    border-style: solid;
+    border-color: #0315B6;
+    border-width: 0.14vw;
+    margin-top: -2.01vw;
+    margin-left:55vw;
+}
+.textcl {
+  position: absolute;
+  color: #0315B6;
+  font-size: 1.528vw;
+  letter-spacing: 5%;
+  line-height: 124%;
+}
+.cloud1 {
+  margin-top: 3.08vw;
+  margin-left: 2.92vw;
+}
+.cloud:hover {
+  background-color: #0315B6;
+  transition: 0.5s
+}
+.cloud:hover .cloud1 {
+  color: #FBF4EC;
+  transition: 0.5s;
+}
+.piccloud2 {
+  margin-top: -4.92vw;
+  width:34.58vw;
+}
+.cloud2 {
+  margin-top: -25.64vw;
+  margin-left: 4.51vw;
+}
+/* неработающее движение */
+.oval {
+  width: 53.19vw;
+  height: 28.75vw;
+  display: block;
+  position: relative;
+  border-radius: 50%;
+  margin-top: -32.64vw;
+  margin-left: 39.51vw;
+  overflow: hidden;
+}
+.fly {
+  width: 100vw;
+  position: relative;
+}
+.cloudsfly {
+  animation: cloudsfly 60s linear infinite;
+  /* animation-play-state: paused; */
+}
+@keyframes cloudsfly {
+  0% {left:0; top: -13.89vw;}
+  100% {left:-43.47vw; top: -13.89vw;}
+}
+.stroke1 {
+  position: absolute;
+  margin-top: -29.04vw;
+  margin-left: 39.21vw;
+  width: 53.54vw;
+}
+/* неработающий хувер для облаков */
+.stroke1:hover {
+  animation-play-state: paused;
+}
+.br3 {
+  position: absolute;
+  margin-top: -54.26vw;
+  margin-left: 93.17vw;
+}
+/* .p5Canvas {
+  width: 83.33vw;
+  height: 38.19vw;
+} */
+.c0s {
+  position: relative;
+  height: 55.33vw;
+}
+.realcl {
+  margin-left: 3vw;
+  margin-top: -3vw;
+  width: 88.89vw;
+  height: 48.06vw;
+  display: block;
+  position: relative;
+  background: url('../images/cloud4.png');
+  background-size: cover;
+}
+.real {
+  animation: real 2s steps(1) infinite;
+}
+@keyframes real {
+  0% {background-position: 0 top;}
+  16.6% {background-position: -88.89vw top;}
+  33.2% {background-position: -177.78vw top;}
+  49.8% {background-position: -266.67vw top;}
+  66.4% {background-position: -355.56vw top;}
+  83% {background-position: -444.44vw top;}
+}
+.realcl:hover {
+  animation-play-state: paused;
+}
+.c0t {
+  position: relative;
+  height: 55.33vw;
+  display: flex;
+ flex-direction: column;
+ justify-content: center;
+ align-items: center;
+}
+.cloudlast {
+  position: absolute;
+  display: flex;
+ flex-direction: column;
+ justify-content: center;
+ align-items: center;
+}
+.anim {
+  position: absolute;
+  border-style: solid;
+  border-color: #FBF4EC;
+  border-width: 0.2vw;
+}
+.re1 {
+  width: 55.56vw;
+  height: 34.03vw;
+}
+.re2 {
+  width: 47.22vw;
+  height: 28.13vw;
+}
+.re3 {
+  width: 37.50vw;
+  height: 20.83vw;
+}
+.re4 {
+  width: 27.08vw;
+  height: 15.35vw;
+}
+.re5 {
+  width: 16.67vw;
+  height: 9.72vw;
+}
