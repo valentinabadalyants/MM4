@@ -1,0 +1,208 @@
+@media all and (max-width: 428px) {
+  .container0 {
+    height: 216.43vw;
+    background: linear-gradient(0deg, rgba(3,21,182,1) 0%, rgba(251,244,236,0.4937325271905637) 28%);
+  }
+  .c0f {
+    height: 55.33vw;
+  }
+  .cloud1 {
+    display: none;
+  }
+  .cloud {
+    display: none;
+  }
+  .oval {
+    margin-top: 17.36vw;
+    margin-left: 23.6vw;
+    scale:1.3;
+  }
+  .stroke1 {
+    margin-top: -28.94vw;
+    margin-left: 23.3vw;
+    scale:1.3;
+  }
+  .piccloud2 {
+    scale: 1.5;
+    margin-top: -14.92vw;
+  }
+  .br3 {
+    scale: 1.6;
+    margin-top: -135.26vw;
+    margin-left: 85.17vw
+  }
+  .textcl {
+    font-size: 4.07vw;
+  }
+  .cloud2_2 {
+    opacity:1;
+    margin-top: 2vw;
+    margin-left: 45vw;
+  }
+  .cloud2 {
+    opacity: 0;
+  }
+  .realcl {
+    scale: 1.45;
+    margin-left: 10vw;
+    margin-top: 56vw
+  }
+  .cloud3 {
+    margin-top: -25.64vw;
+    margin-left: 32.51vw;
+  }
+  .rectngfly1 {
+    margin-left: 4vw;
+    margin-top: -61vw;
+  }
+  .rectngfly2 {
+    margin-left: 81vw;
+    margin-top: 52vw;
+  }
+  .cloudlast {
+    margin-top: 43vw;
+    scale:1.2;
+  }
+  .cloud4 {
+    opacity: 0;
+  }
+  .cloud4_4 {
+    opacity: 1;
+    margin-left: -39vw;
+    margin-top: -37vw;
+  }
+  .star {
+    width: 21.01vw;
+    margin-left: 83vw;
+    margin-top: -201vw;
+  }
+  .c2 {
+    scale: 2;
+    margin-left: 79.917vw;
+    margin-top: 1vw;
+  }
+  .norm {
+    scale: 2;
+
+  }
+  .back2 {
+    margin-top: 11.111vw;
+    margin-left: 5vw;
+  }
+  .push1 {
+    margin-top: 1.5vw;
+    margin-left: 3.208vw;
+    font-size: 2.2vw;
+  }
+  .text {
+    font-size: 4.7vw;
+  }
+  .t1 {
+    margin-top: 13.5vw;
+    margin-left: 32.60vw;
+  }
+  .container2 {
+    height: 206.76vw;
+  }
+  .r2 {
+    scale: 2;
+    margin-top: 43.89vw;
+    margin-left: 95.04vw;
+  }
+  .r1 {
+    scale: 2;
+    margin-top: 130.89vw;
+  }
+  .draw {
+    margin-top: 1vw;
+    margin-left: 3vw;
+  }
+  .guitar {
+    rotate: 52deg;
+    scale:1.5;
+    margin-top: 87.56vw;
+    margin-left: 3.25vw
+  }
+  .br2 {
+    scale:2;
+    margin-top: 180vw;
+    margin-left: 23vw;
+  }
+  .finish {
+    margin-top: 67.36vw;
+    margin-left: 23.51vw;
+  }
+  .finpic {
+    scale:1.5;
+    rotate: 52deg;
+    margin-left: -2vw;
+    margin-top: 77vw;
+  }
+  .container3 {
+    height: 206.76vw;
+  }
+  .back3{
+    margin-top: 12vw;
+    margin-left: 4vw;
+  }
+  .t2 {
+    opacity:0;
+  }
+  .t2_2 {
+    opacity:1;
+    margin-top: 23vw;
+    margin-left: 29.64vw;
+  }
+  .interior {
+    scale: 1.7;
+    margin-top: 66vw;
+  }
+  .stroke3big {
+    position: absolute;
+    scale: 1.6;
+    margin-left: 19vw;
+    margin-top: -45vw;
+  }
+  .dr {
+    scale:1.7;
+  }
+  .vase {
+    margin-left: 73.08vw;
+    margin-top: 52vw;
+  }
+  .chair {
+    margin-left: 31.74vw;
+    margin-top: 26vw;
+  }
+  .vasemini {
+    margin-left: 65.79vw;
+    margin-top: 33vw;
+  }
+  .plate {
+    margin-left: 52.04vw;
+    margin-top: 61vw;
+  }
+  .paddedstool {
+    margin-left: 24vw;
+    margin-top: 62vw;
+  }
+  .vase3 {
+    margin-left: 9.24vw;
+    margin-top: 38vw;
+  }
+  .r4 {
+    scale: 1.7;
+    margin-top: -155vw;
+  }
+  .br4 {
+    scale : 1.2;
+    margin-top: 79vw;
+    margin-left: 55vw;
+  }
+  .c3 {
+    scale: 1.7;
+    margin-left: -6vw;
+    margin-top: 66vw;
+  }
+
+}

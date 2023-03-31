@@ -25,13 +25,13 @@ $(document).ready(function(){
 });
 $(document).ready(function(){
   $(".back3").click(function(){
-    $(".container1").toggleClass("hide");
+    $(".container3").toggleClass("hide");
     $(".container0").toggleClass("hide");
   });
 });
 // рисовалька
 function setup() {
-  createCanvas(1220, 550);
+  createCanvas(1700, 850);
   background(251, 244, 236);
 }
 
@@ -49,14 +49,69 @@ $(document).ready(function(){
   });
 });
 $(document).ready(function(){
+  $(".realcl").click(function(){
+    $(".container0").toggleClass("hide");
+    $(".container3").toggleClass("hide");
+  });
+});
+$(document).ready(function(){
   $(".cloudlast").click(function(){
     $(".container0").toggleClass("hide");
     $(".container1").toggleClass("hide");
   });
 });
-// $(document).ready(function(){
-//   $(".cloudlast").click(function(){
-//     $(".container0").toggleClass("hide");
-//     $(".container2").toggleClass("hide");
-//   });
-// });
+
+
+$(document).ready(function(){
+  $(".finish").click(function(){
+    $(".finpic").toggleClass("hide");
+  });
+});
+// перетаскивание элементиков
+$(function() {
+	$(".dr").draggable();
+});
+// действия на скролл
+$(window).scroll(function() {
+  var r = $(window).scrollTop() % Math.PI;
+  $('.star').css({ transform: 'rotate(' + r + 'rad)' });
+  $('.c4').css({ transform: 'rotate(-' + r + 'rad)' });
+});
+// поялвение элементов при скроле
+$(window).scroll(function() {
+  var element = $('.textlitlle');
+  var position = element.offset().top;
+  var windowHeight = $(window).height();
+  var scroll = $(window).scrollTop();
+
+  if (scroll > position - windowHeight) {
+    element.addClass('fade-in');
+  }
+});
+// анимация для нижней штучки
+// $('.re1').css({transform : 'scale('+ $resizerWidth +')'});
+// 
+// let a = 0.0;
+// let s = 0.0;
+//
+// function setup() {
+//   createCanvas(720, 400);
+//   stroke(200);
+//   rectMode(CENTER);
+// }
+//
+// function draw() {
+//
+//   a = a + 0.04;
+//   s = cos(a) * 2;
+//
+//   translate(width / 2, height / 2);
+//   // scale(s);
+//   // // fill(51);
+//   // rect(0, 0, 50, 50);
+//
+//   translate(75, 0);
+//   fill(255);
+//   scale(s);
+//   rect(0, 0, 300, 150);
+// }
