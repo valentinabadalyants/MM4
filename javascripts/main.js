@@ -10,6 +10,101 @@
       $(".picc4").toggleClass("show");
     });
   });
+  $(document).ready(function(){
+    $(".p1").click(function(){
+      $(".picc1").toggleClass("show");
+    });
+  });
+  $(document).ready(function(){
+    $(".p14").click(function(){
+      $(".picc14").toggleClass("show");
+    });
+  });
+  $(document).ready(function(){
+    $(".p2").click(function(){
+      $(".picc2").toggleClass("show");
+    });
+  });
+  $(document).ready(function(){
+    $(".p3").click(function(){
+      $(".picc3").toggleClass("show");
+    });
+  });
+  $(document).ready(function(){
+    $(".p17").click(function(){
+      $(".picc17").toggleClass("show");
+    });
+  });
+  $(document).ready(function(){
+    $(".p6").click(function(){
+      $(".picc6").toggleClass("show");
+    });
+  });
+  $(document).ready(function(){
+    $(".p7").click(function(){
+      $(".picc7").toggleClass("show");
+    });
+  });
+  $(document).ready(function(){
+    $(".p8").click(function(){
+      $(".picc8").toggleClass("show");
+    });
+  });
+  $(document).ready(function(){
+    $(".p9").click(function(){
+      $(".picc9").toggleClass("show");
+    });
+  });
+  $(document).ready(function(){
+    $(".p10").click(function(){
+      $(".picc10").toggleClass("show");
+    });
+  });
+  $(document).ready(function(){
+    $(".p11").click(function(){
+      $(".picc11").toggleClass("show");
+    });
+  });
+  $(document).ready(function(){
+    $(".p13").click(function(){
+      $(".picc13").toggleClass("show");
+    });
+  });
+  $(document).ready(function(){
+    $(".p15").click(function(){
+      $(".picc15").toggleClass("show");
+    });
+  });
+  $(document).ready(function(){
+    $(".p16").click(function(){
+      $(".picc16").toggleClass("show");
+    });
+  });
+  $(document).ready(function(){
+    $(".p18").click(function(){
+      $(".picc18").toggleClass("show");
+    });
+  });
+  $(document).ready(function(){
+    $(".p19").click(function(){
+      $(".picc19").toggleClass("show");
+    });
+  });
+  $(document).ready(function(){
+    $(".p20").click(function(){
+      $(".picc20").toggleClass("show");
+    });
+  });
+  $(document).ready(function(){
+    $(".p21").click(function(){
+      $(".picc21").toggleClass("show");
+    });
+  });
+  $(document).ready(function(){
+    $(".p22").click(function(){
+      $(".picc22").toggleClass("show");
+    });
+  });
 // чтобы при нажатии на кнопку назад, экран менялся на главный
 $(document).ready(function(){
   $(".back1").click(function(){
@@ -90,7 +185,7 @@ $(window).scroll(function() {
 });
 // анимация для нижней штучки
 // $('.re1').css({transform : 'scale('+ $resizerWidth +')'});
-// 
+//
 // let a = 0.0;
 // let s = 0.0;
 //
